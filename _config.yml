@@ -1,26 +1,21 @@
 # Dependencies
-markdown:         redcarpet
-highlighter:      pygments
+markdown:         kramdown
+highlighter:      rouge
 
 # Permalinks
-permalink:        pretty
-relative_permalinks: true
+permalink: /:year/:month/:day/:title/
 
 # Setup
-title:            Hyde
-tagline:          'A Jekyll theme'
-description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:              "https://friendly-invention.github.io"
-baseurl:          ""
+title:            knolleary
+tagline:          "Things by Nick O'Leary"
+description:      'Words and things by Nick O&apos;Leary.'
+baseurl:          /
 
 author:
-  name:           'Mark Otto'
-  url:            https://twitter.com/mdo
+  name:           "Nick O'Leary"
+  url:            https://twitter.com/knolleary
+  twitter:        "@knolleary"
 
-paginate:         5
-
-# Custom vars
-version:          2.1.0
-
-github:
-  repo:           https://github.com/poole/hyde
+plugins:
+    - jekyll-paginate
+    - jekyll-redirect-from
