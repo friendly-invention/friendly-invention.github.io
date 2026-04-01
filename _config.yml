@@ -6,13 +6,13 @@ highlighter:      rouge
 permalink: /:year/:month/:day/:title/
 
 # Setup
-title:            knolleary
+title:            Friendly-Invention
 tagline:          "Things by Nick O'Leary"
-description:      'Words and things by Nick O&apos;Leary.'
+description:      'Words and things by Sabarish.'
 baseurl:          /
 
 author:
-  name:           "Nick O'Leary"
+  name:           "Sabarish Santhoshkumar"
   url:            https://twitter.com/knolleary
   twitter:        "@knolleary"
 
