@@ -13,8 +13,8 @@ baseurl:          /
 
 author:
   name:           "Sabarish Santhoshkumar"
-  url:            https://twitter.com/knolleary
-  twitter:        "@knolleary"
+  url:            https://friendly-invention.github.io/
+  twitter:        
 
 plugins:
     - jekyll-paginate
