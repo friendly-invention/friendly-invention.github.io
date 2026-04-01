@@ -1,6 +1,8 @@
 ---
 layout: post
-title: Friendly-Invention
+title: Friendly Invention
+date: 2026-03-31
+tags: ["tech"]
 ---
 
 
