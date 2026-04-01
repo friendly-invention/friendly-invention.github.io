@@ -7,7 +7,7 @@ permalink: /:year/:month/:day/:title/
 
 # Setup
 title:            Friendly-Invention
-tagline:          "Things by Nick O'Leary"
+tagline:          "Friendly Things"
 description:      'Words and things by Sabarish.'
 baseurl:          /
 
