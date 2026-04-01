@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Example content
+title: Friendly-Invention
 ---
 
 
 <div class="message">
-  Howdy! This is an example blog post that shows several types of HTML content supported in this theme.
+  Howdy! This is my first post as the Creator and Author of Friendly-Inventions. My goal here is to take my readers on this Learning journey and teach everythig that I can. It is one of my biggest dream to contibute to the Open Source Community. The type of content being published here will include Science, Tech, Automation, Networking and Programming. 
 </div>
 
 Cum sociis natoque penatibus et magnis <a href="#">dis parturient montes</a>, nascetur ridiculus mus. *Aenean eu leo quam.* Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.
